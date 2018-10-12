@@ -13,3 +13,9 @@ information of the nearby relief camps and will guide affected people towards it
 #Before the disaster:
 Suppose that there is some area in which flood is predicted in next few hours and that area needs to be evacuated.
 Peaple can enter their location and where they want to go. People with proper mode of tranport can also enter where they are heading and how many other people they can take with themselves.
+
+
+
+
+
+
